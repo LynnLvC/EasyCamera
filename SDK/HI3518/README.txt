@@ -1,7 +1,7 @@
-HI3518½»²æ±àÒë¹¤¾ßÁ´ÏÂÔØ£ºhttp://pan.baidu.com/s/1qWBYFCC
+HI3518äº¤å‰ç¼–è¯‘å·¥å…·é“¾ä¸‹è½½ï¼šhttp://pan.baidu.com/s/1qWBYFCC
 
-1. ½«hi3518gcc.tgzµ½/opt
-2. Ê¹ÓÃtar -xvzf hi3518gcc.tgz½âÑ¹µ½/optÄ¿Â¼
-2. ÔÚ/etc/profileÌí¼Ó
-export PATH="/opt/hisi-linux-nptl/arm-hisiv100-linux/target/bin:$PATH"
-3. ÖØĞÂÆô¶¯linux
+1. å°†hi3518gcc.tgzåˆ°/opt
+2. ä½¿ç”¨tar -xvzf hi3518gcc.tgz -C /optè§£å‹åˆ°/optç›®å½•
+2. åœ¨/etc/profileæ·»åŠ 
+export PATH="$PATH:/opt/hisi-linux-nptl/arm-hisiv100-linux/bin"
+3. é‡æ–°å¯åŠ¨linux
